@@ -1,11 +1,11 @@
 {
-  "name": "project-digital-dragons",
+  "name": "team-1-project-digital-dragons",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-digital-dragons/",
+    "build": "vite build --base=/html-css_72_project-digital-dragons/",
     "preview": "vite preview"
   },
   "devDependencies": {
